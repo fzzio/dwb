@@ -7,7 +7,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand nav-link" href="index.php">
-							<img src="assets/img/logoheader.png">
+							<img src="assets/img/logoheader.png" class="img-responsive">
 						</a>
 					</div> <!-- /.navbar-header -->
 
@@ -17,7 +17,7 @@
 								<a href="index.php">INICIO</a>
 							</li>
 							<li>
-								<a href="#productos">PRODUCTOS</a>
+								<a href="productos.php">PRODUCTOS</a>
 							</li>
 							<li>
 								<a href="#instagram">CONTACTO</a>

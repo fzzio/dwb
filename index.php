@@ -26,123 +26,138 @@
       </div>
     </div>
 
-    
-<div id="productos" class="container-fluid parallax-seccion">
-  
-  <div class="row alto-completo">
-    <div class="container-fluid contenedor-centrar">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h1 class="tituloProductos">PRODUCTOS</h1>
+        
+    <div id="productos" class="container parallax-seccion">
+      
+      <div class="row alto-completo">
+        <div class="container-fluid contenedor-centrar">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <h1 class="tituloProductos">PRODUCTOS</h1>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-5 col-lg-offset-6">
+              <p class="texto-productos">Vivamus libero odio, scelerisque ut aliquam blandit, eleifend vehicula urna. Cras ut libero dapibus, convallis lacus vel, lacinia ipsum. Cras sollicitudin ornare enim, eu interdum velit mattis sed. </p>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-12">
+            
+
+                    <ul class="ch-grid">
+                      <li>
+                        <div class="ch-item ch-img-1">        
+                          <div class="ch-info-wrap">
+                            <div class="ch-info">
+                              <div class="ch-info-front ch-img-1"></div>
+                              <div class="ch-info-back">
+                                <h3>Bears Type</h3>
+                                <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                              </div>  
+                            </div>
+                          </div>
+                        </div>
+                        <div class="ch-caption">
+                          <div class="nombreProducto contenedor-centrarPad">
+                            CAMISETAS
+                          </div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="ch-item ch-img-2">
+                          <div class="ch-info-wrap">
+                            <div class="ch-info">
+                              <div class="ch-info-front ch-img-2"></div>
+                              <div class="ch-info-back">
+                                <h3>Salon Spaces illustrations</h3>
+                                <p>by Jeremy Slagle <a href="http://drbl.in/elmi">View on Dribbble</a></p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="ch-caption">
+                          <div class="nombreProducto contenedor-centrarPad">
+                            LYCRAS
+                          </div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="ch-item ch-img-3">
+                          <div class="ch-info-wrap">
+                            <div class="ch-info">
+                              <div class="ch-info-front ch-img-3"></div>
+                              <div class="ch-info-back">
+                                <h3>Leadership Series #3</h3>
+                                <p>by Dustin Leer <a href="http://drbl.in/dfhn">View on Dribbble</a></p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="ch-caption">
+                          <div class="nombreProducto contenedor-centrarPad">
+                            TOPS
+                          </div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="ch-item ch-img-4">
+                          <div class="ch-info-wrap">
+                            <div class="ch-info">
+                              <div class="ch-info-front ch-img-3"></div>
+                              <div class="ch-info-back">
+                                <h3>Leadership Series #3</h3>
+                                <p>by Dustin Leer <a href="http://drbl.in/dfhn">View on Dribbble</a></p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="ch-caption">
+                          <div class="nombreProducto contenedor-centrarPad">
+                            COLLECIONES
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+
+
+
+
+            </div>
+          </div>
+
+
+          <?php /*
+
+          <div class="row">
+            <div class="col-lg-3">
+              <a href="#" class="link-dioma">
+                
+              </a>
+              <a href="#" class="btn btn-acceso link-dioma">
+                Camisetas
+              </a>
+            </div>  
+          </div>
+          */ ?>
+
         </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-5 col-lg-offset-6">
-          <p>Vivamus libero odio, scelerisque ut aliquam blandit, eleifend vehicula urna. Cras ut libero dapibus, convallis lacus vel, lacinia ipsum. Cras sollicitudin ornare enim, eu interdum velit mattis sed. </p>
-        </div>
+
       </div>
     </div>
 
-
-    <?php 
-    /*
-
-
-
-    <!-- <div class="col-lg-12"> -->
-    <div class="main">
-
-      <ul class="ch-grid">
-        <li>
-          <div class="ch-item ch-img-1">        
-            <div class="ch-info-wrap">
-              <div class="ch-info">
-                <div class="ch-info-front ch-img-1"></div>
-                <div class="ch-info-back">
-                  <h3>Bears Type</h3>
-                  <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
-                </div>  
-              </div>
+    <div id="instagram" class="container-fluid alto-completo">
+      <div class="contenedor-centrar">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <h1 class="tituloInstagram">Instagram</h1>
             </div>
           </div>
-          <div class="ch-caption">
-            <div class="nombreProducto contenedor-centrarPad">
-              CAMISETAS
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="ch-item ch-img-2">
-            <div class="ch-info-wrap">
-              <div class="ch-info">
-                <div class="ch-info-front ch-img-2"></div>
-                <div class="ch-info-back">
-                  <h3>Salon Spaces illustrations</h3>
-                  <p>by Jeremy Slagle <a href="http://drbl.in/elmi">View on Dribbble</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="ch-caption">
-            <div class="nombreProducto contenedor-centrarPad">
-              LYCRAS
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="ch-item ch-img-3">
-            <div class="ch-info-wrap">
-              <div class="ch-info">
-                <div class="ch-info-front ch-img-3"></div>
-                <div class="ch-info-back">
-                  <h3>Leadership Series #3</h3>
-                  <p>by Dustin Leer <a href="http://drbl.in/dfhn">View on Dribbble</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="ch-caption">
-            <div class="nombreProducto contenedor-centrarPad">
-              TOPS
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="ch-item ch-img-4">
-            <div class="ch-info-wrap">
-              <div class="ch-info">
-                <div class="ch-info-front ch-img-3"></div>
-                <div class="ch-info-back">
-                  <h3>Leadership Series #3</h3>
-                  <p>by Dustin Leer <a href="http://drbl.in/dfhn">View on Dribbble</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="ch-caption">
-            <div class="nombreProducto contenedor-centrarPad">
-              COLLECIONES
-            </div>
-          </div>
-        </li>
-      </ul>
-
+        </div>
+      </div>
     </div>
-    <!-- </div> -->
-
-    */
-    ?>
-
-
-
-
-
-
-  </div>
-</div>
-
-<div id="instagram" class="container-fluid alto-completo">
-  lalala
-</div>
 
 <?php require_once("footer.php"); ?>    
